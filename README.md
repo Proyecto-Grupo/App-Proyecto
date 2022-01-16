@@ -1,2 +1,2 @@
 # App-Proyecto
-Aplicacion movil de trabajos
+Plataforma web de trabajos
